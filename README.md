@@ -1,6 +1,6 @@
 # Spotify_Python
 
-This program is simple. It gets a token from Spotify API
+This program gets a token from Spotify API
 
 Then uses the token to create requests 
 
